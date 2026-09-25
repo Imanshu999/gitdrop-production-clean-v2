@@ -1,0 +1,5 @@
+{
+  "name": "GitDrop - ZIP to GitHub Deployer",
+  "description": "A standalone deployment tool for uploading project ZIP archives to GitHub repositories with real-time progress.",
+  "requestFramePermissions": []
+}
